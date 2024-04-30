@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let score = 0;
 let question1 = await inquirer.prompt({
